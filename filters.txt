@@ -1,0 +1,27 @@
+/* 最上方导航栏动画 */
+www.bilibili.com##li:has(div > a.loc-moveclip)
+/* 直播中 icon gif动画 */
+www.bilibili.com##div.living>img
+/* 直播中 icon gif动画 */
+www.bilibili.com##div.bili-live-card__info--living>img
+/* 右下 按钮*/
+www.bilibili.com##div.palette-button-outer
+www.bilibili.com##div.recommended-swipe
+www.bilibili.com##div.bili-video-card__skeleton
+www.bilibili.com##div.skeleton-item
+www.bilibili.com##div.floor-card > div.layer
+www.bilibili.com##div.animated-banner
+www.bilibili.com##div.video-share-wrap
+www.bilibili.com##div.feed-card:has(span:text("广告"))
+www.bilibili.com##div.feed-card:has(.bili-video-card__info--creative-ad)
+www.bilibili.com##div.feed-card:has(.bili-video-card__info--ad)
+www.bilibili.com##div.bili-video-card:has(span:text("广告"))
+www.bilibili.com##div.bili-video-card:has(.bili-video-card__info--creative-ad)
+www.bilibili.com##div.bili-video-card:has(.bili-video-card__info--ad)
+
+
+www.iyf.tv##.justify-content-end.box
+
+s1-a1.global-cdn.me
+
+investing.com###__next > div:has(div.shadow-adNotificationPopup)
